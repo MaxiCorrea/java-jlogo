@@ -105,6 +105,12 @@
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
 		</dependency>
+		<!-- Animation -->
+		<dependency>
+			<groupId>com.animation</groupId>
+			<artifactId>common</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<resources>
@@ -162,7 +168,7 @@
 			<name>Maximiliano Correa</name>
 			<id>Id</id>
 			<email>jmaxicorrea@gmail.com</email>
-			<organization>MIW UPM</organization>
+			<organization></organization>
 			<roles>
 				<role>Developer</role>
 			</roles>
