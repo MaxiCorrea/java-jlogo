@@ -10,7 +10,7 @@ public final class Icons {
   }
   
   public static Icon load(String path) {
-    return new ImageIcon(Icons.class.getClass().getResource(path));
+    return new ImageIcon(Icons.class.getClass().getResource("images"+path));
   }
   
 }
