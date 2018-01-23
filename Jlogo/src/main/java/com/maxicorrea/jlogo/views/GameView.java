@@ -50,7 +50,7 @@ public class GameView {
     mainFrame.setUndecorated(true);
     mainFrame
         .setIconImage(Toolkit.getDefaultToolkit().getImage(
-          getClass().getResource("/logo.png")));
+          getClass().getResource("/images/logo.png")));
     mainFrame.setSize(WIDTH, HEIGHT);
     mainFrame.setDefaultCloseOperation(3);
     mainFrame.setContentPane(getContentPane());

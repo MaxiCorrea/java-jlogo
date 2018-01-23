@@ -14,11 +14,12 @@ public enum DeckerFont {
   private DeckerFont() {
     try {
       font = Font.createFont(Font.TRUETYPE_FONT, 
-        getClass().getResource("/Decker.ttf").openStream());
+        getClass().getResource("/fonts/Decker.ttf").openStream());
       GraphicsEnvironment genv = GraphicsEnvironment.getLocalGraphicsEnvironment();
       genv.registerFont(font);
       font = font.deriveFont(12f);
     } catch (FontFormatException | IOException e) {
+      e.printStackTrace();;
      font = new Font(Font.MONOSPACED, Font.PLAIN, 17);
     }   
   }
