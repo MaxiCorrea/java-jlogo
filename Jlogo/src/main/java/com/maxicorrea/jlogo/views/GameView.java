@@ -12,10 +12,12 @@ import javax.swing.JPanel;
 import javax.swing.UIManager;
 import javax.swing.border.EmptyBorder;
 import javax.swing.filechooser.FileNameExtensionFilter;
+import com.maxicorrea.jlogo.controllers.GameController;
 import com.maxicorrea.jlogo.models.Logo;
 import com.maxicorrea.jlogo.views.extras.EastMenuLabel;
 import com.maxicorrea.jlogo.views.extras.NorthMotionLabel;
 import com.maxicorrea.jlogo.views.extras.SelectTurtlePane;
+import com.maxicorrea.jlogo.views.extras.WestMenuLabel;
 
 public class GameView {
 
@@ -35,7 +37,7 @@ public class GameView {
   private HistoryView historyView;
   private CommandView commandView;
   
-  public LogoView() {
+  public GameView() {
     UIManager.put("ScrollBar.thumbShadow", Color.WHITE);
     UIManager.put("ScrollBar.background" ,Color.WHITE);
     UIManager.put("ScrollBar.foreground" ,Color.WHITE);
@@ -114,7 +116,7 @@ public class GameView {
     return southPane;
   }
 
-  public void setController(LogoController controller) {
+  public void setController(GameController controller) {
     commandView.setController(controller);
   }
   
