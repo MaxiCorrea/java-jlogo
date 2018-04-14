@@ -1,0 +1,576 @@
+<?xml version="1.0" ?>
+
+<historial>
+	<comando>
+        <nombre>ubicar</nombre>
+        <parametro> 236,249</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 200</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,400</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 25</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 25</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,400</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 25</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 25</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 100,200</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 275,300</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 100</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 100,300</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 100</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,250</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,225</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,275</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 25</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,275</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 25</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 70</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 60</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 70</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 60</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 390,305</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 30</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 10</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 390,295</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 85,295</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 85,305</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 85,295</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 85,305</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 50</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 30,30</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 100,200</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 180</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 280</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 70</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 280</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro>70</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 40,40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 240,130</parametro>
+    </comando>
+    <comando>
+        <nombre>color</nombre>
+        <parametro> 255,255,255</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>color</nombre>
+        <parametro> 0,0,0</parametro>
+    </comando>
+    <comando>
+        <nombre>circulo</nombre>
+        <parametro> 60</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,275</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,275</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,400</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 327,393</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,400</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 149,395</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,400</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 100,390</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 70,390</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,400</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 400,390</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 215,300</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 260,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 262,300</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 225,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 75,300</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 400,300</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>color</nombre>
+        <parametro> 255,204,77</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 400,250</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 325,310</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,310</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 201,300</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 376,300</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>color</nombre>
+        <parametro> 200,200,200</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 40,40</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 150,300</parametro>
+    </comando>
+    <comando>
+        <nombre>girarizq</nombre>
+        <parametro> 270</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 220,305</parametro>
+    </comando>
+    <comando>
+        <nombre>color</nombre>
+        <parametro> 0,0,0</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 40,40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 220,295</parametro>
+    </comando>
+    <comando>
+        <nombre>avanzar</nombre>
+        <parametro> 40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 40,40</parametro>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 221,296</parametro>
+    </comando>
+    <comando>
+        <nombre>pintar</nombre>
+        <parametro/>
+    </comando>
+    <comando>
+        <nombre>ubicar</nombre>
+        <parametro> 40,40</parametro>
+    </comando>
+</historial>
