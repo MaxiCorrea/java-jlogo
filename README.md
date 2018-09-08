@@ -22,9 +22,9 @@ Simple intérprete del lenguaje Logo.
 
 ### Screenshots
 
-![screenshot from 2018-09-08 07-51-51](https://user-images.githubusercontent.com/34853850/45253375-72c93a00-b33c-11e8-836e-736a2713507c.png)
-
 ![screenshot from 2018-09-08 07-51-18](https://user-images.githubusercontent.com/34853850/45253372-6e9d1c80-b33c-11e8-9dff-487f7f357fab.png)
+
+![screenshot from 2018-09-08 07-51-51](https://user-images.githubusercontent.com/34853850/45253375-72c93a00-b33c-11e8-836e-736a2713507c.png)
 
 ![screenshot from 2018-09-08 07-45-30](https://user-images.githubusercontent.com/34853850/45253307-7e683100-b33b-11e8-9913-a0b1043c7424.png)
 
