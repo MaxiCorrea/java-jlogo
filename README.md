@@ -3,6 +3,9 @@
 ### Descripción
 Simple intérprete del lenguaje Logo.
 
+### Youtube
+https://www.youtube.com/watch?v=bY5mmgTBGqI&t=116s
+
 ### Caracteristicas
 1- Permite ejecutar los siguientes comandos: 
   * girarder/girarizq.
