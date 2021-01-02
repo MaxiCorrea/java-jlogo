@@ -1,4 +1,4 @@
-# java-jlogo
+# java-jlogo (Desktop)
 
 ### Descripción
 Simple intérprete del lenguaje Logo.
