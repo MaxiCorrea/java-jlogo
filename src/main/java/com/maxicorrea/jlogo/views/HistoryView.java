@@ -13,8 +13,8 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.border.TitledBorder;
 import com.maxicorrea.jlogo.models.Logo;
+import com.maxicorrea.jlogo.views.animation.Animation;
 import com.maxicorrea.jlogo.views.extras.DeckerFont;
-import AppPackage.AnimationClass;
 
 public class HistoryView extends JPanel {
   private static final long serialVersionUID = 1L;
@@ -43,8 +43,8 @@ public class HistoryView extends JPanel {
     pane.getVerticalScrollBar().setBackground(Color.white);
     pane.addMouseListener(new MouseAdapter() {
       public void mousePressed(MouseEvent e) {
-        new AnimationClass().jTextAreaYUp(490, 220, 10, 5, pane);
-        new AnimationClass().jTextAreaYDown(220, 490, 10, 5, pane);
+        Animation.INSTANCE.jTextAreaYUp(490, 220, 10, 5, pane);
+        Animation.INSTANCE.jTextAreaYDown(220, 490, 10, 5, pane);
       }
     });
     return pane;

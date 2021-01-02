@@ -11,8 +11,8 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.border.TitledBorder;
+import com.maxicorrea.jlogo.views.animation.Animation;
 import com.maxicorrea.jlogo.views.utils.Icons;
-import AppPackage.AnimationClass;
 
 public class SelectTurtlePane extends JPanel {
   
@@ -28,7 +28,7 @@ public class SelectTurtlePane extends JPanel {
     setBounds(0, 490, 150, 300);
     buttons = new JButton[BUTTONS_LENGTH];
     for(int i = 0 ; i < buttons.length ; ++i) {
-      buttons[i] = new JButton(Icons.load("/turtle"+(i+1)+".png"));
+      buttons[i] = new JButton(Icons.INSTANCE.load("/turtle"+(i+1)+".png"));
       buttons[i].setBorderPainted(false);
       buttons[i].setFocusable(false);
       buttons[i].setBackground(Color.WHITE);
@@ -50,8 +50,8 @@ public class SelectTurtlePane extends JPanel {
     pane.getVerticalScrollBar().setBackground(Color.white);
      pane.addMouseListener(new MouseAdapter() {
       public void mousePressed(MouseEvent e) {
-        new AnimationClass().jTextAreaYUp(490, 220, 10, 5, pane);
-        new AnimationClass().jTextAreaYDown(220, 490, 10, 5, pane);
+        Animation.INSTANCE.jTextAreaYUp(490, 220, 10, 5, pane);
+        Animation.INSTANCE.jTextAreaYDown(220, 490, 10, 5, pane);
       }
     });
     return pane;

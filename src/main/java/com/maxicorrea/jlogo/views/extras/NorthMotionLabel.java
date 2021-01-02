@@ -57,7 +57,7 @@ public class NorthMotionLabel extends JLabel {
 
   private JLabel getLabelClose() {
     close = new JLabel();
-    close.setIcon(Icons.load("/close.png"));
+    close.setIcon(Icons.INSTANCE.load("/close.png"));
     close.addMouseListener(new MouseAdapter() {
       public void mousePressed(MouseEvent e) {
         owner.setVisible(false);
@@ -70,7 +70,7 @@ public class NorthMotionLabel extends JLabel {
 
   private JLabel getLabelMini() {
     mini = new JLabel();
-    mini.setIcon(Icons.load("/mini.png"));
+    mini.setIcon(Icons.INSTANCE.load("/mini.png"));
     mini.addMouseListener(new MouseAdapter() {
       public void mousePressed(MouseEvent e) {
         owner.setState(JFrame.ICONIFIED);

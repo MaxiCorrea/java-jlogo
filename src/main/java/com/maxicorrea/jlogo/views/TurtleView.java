@@ -29,7 +29,7 @@ public class TurtleView extends JLabel implements ActionListener {
   private double angle = 0.0D;
 
   public TurtleView() {
-    setIcon(Icons.load("/turtle2.png"));
+    setIcon(Icons.INSTANCE.load("/turtle2.png"));
     setBounds(0, 0, WIDTH, HEIGHT);
     setPreferredSize( new Dimension(WIDTH, HEIGHT));
     pane = new SelectTurtlePane();

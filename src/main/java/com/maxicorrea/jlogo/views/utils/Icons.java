@@ -5,12 +5,14 @@ import javax.swing.ImageIcon;
 
 public final class Icons {
 
+  public static final Icons INSTANCE = new Icons();
+
   private Icons() {
-    throw new AssertionError();
+    super();
   }
-  
-  public static Icon load(String path) {
-    return new ImageIcon(Icons.class.getClass().getResource("/images"+path));
+
+  public Icon load(String path) {
+    return new ImageIcon(this.getClass().getResource("/images" + path));
   }
-  
+
 }

@@ -4,10 +4,10 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import com.maxicorrea.jlogo.views.animation.Animation;
 import com.maxicorrea.jlogo.views.dialogs.CommandsDialog;
 import com.maxicorrea.jlogo.views.dialogs.MessageDialog;
 import com.maxicorrea.jlogo.views.utils.Icons;
-import AppPackage.AnimationClass;
 
 public class EastMenuLabel extends JLabel {
   private static final long serialVersionUID = 1L;
@@ -21,13 +21,13 @@ public class EastMenuLabel extends JLabel {
     this.owner = owner;
     setLayout(null);
     setBounds(100, 0, 50, 128);
-    menLabel = new JLabel(Icons.load("/menu2.png"));
+    menLabel = new JLabel(Icons.INSTANCE.load("/menu2.png"));
     menLabel.setBounds(8, 0, 32, 32);
     add(menLabel);
-    cmdLabel = new JLabel(Icons.load("/command.png"));
+    cmdLabel = new JLabel(Icons.INSTANCE.load("/command.png"));
     cmdLabel.setBounds(190, 52, 32, 32);
     add(cmdLabel);
-    calLabel = new JLabel(Icons.load("/calculator.png"));
+    calLabel = new JLabel(Icons.INSTANCE.load("/calculator.png"));
     calLabel.setBounds(190, 94, 32, 32);
     add(calLabel);
     addListener();
@@ -36,10 +36,10 @@ public class EastMenuLabel extends JLabel {
   private void addListener() {
     menLabel.addMouseListener(new MouseAdapter() {
       public void mouseClicked(MouseEvent e) {
-        new AnimationClass().jLabelXLeft(190, 10, 5, 5, cmdLabel);
-        new AnimationClass().jLabelXRight(10, 190, 5, 5, cmdLabel);
-        new AnimationClass().jLabelXLeft(190, 10, 5, 5, calLabel);
-        new AnimationClass().jLabelXRight(10, 190, 5, 5, calLabel);
+        Animation.INSTANCE.jLabelXLeft(190, 10, 5, 5, cmdLabel);
+        Animation.INSTANCE.jLabelXRight(10, 190, 5, 5, cmdLabel);
+        Animation.INSTANCE.jLabelXLeft(190, 10, 5, 5, calLabel);
+        Animation.INSTANCE.jLabelXRight(10, 190, 5, 5, calLabel);
       }
     });
     calLabel.addMouseListener(new MouseAdapter() {

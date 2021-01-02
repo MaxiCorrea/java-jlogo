@@ -13,7 +13,7 @@ public class AboutDialog extends Dialog {
     super(owner);
     contentPane.setPreferredSize(new Dimension(300, 320));
     infoLabel.setText("");
-    infoLabel.setIcon(Icons.load("/logo_about.png"));
+    infoLabel.setIcon(Icons.INSTANCE.load("/logo_about.png"));
     addInfoLabels();
     okButton.setText("Cerrar");
     okButton.setBounds(75, 250, 150, 40);
